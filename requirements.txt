@@ -1,2 +1,10 @@
 streamlit
+librosa
+numpy
 yt-dlp
+scikit-learn
+tensorflow
+audiomentations
+pandas
+matplotlib
+seaborn
