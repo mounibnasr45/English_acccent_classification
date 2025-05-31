@@ -1,7 +1,6 @@
 streamlit
 librosa
 numpy
-yt-dlp
 scikit-learn
 tensorflow # Or tensorflow==your.version
 audiomentations
