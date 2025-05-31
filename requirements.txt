@@ -1,8 +1,9 @@
 streamlit
 librosa
 numpy
+yt-dlp
 scikit-learn
-tensorflow # Or tensorflow==your.version
+tensorflow
 audiomentations
 pandas
 matplotlib
