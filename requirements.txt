@@ -1,0 +1,21 @@
+streamlit
+tensorflow
+librosa
+numpy
+yt-dlp
+scikit-learn
+audiomentations
+pandas # Added as it's used in your training script and good for completeness
+matplotlib # Used for plotting in training, sometimes useful for debugging
+seaborn # Used for plotting in training
+warnings
+audiomentations--
+streamlit
+os
+uuid
+traceback
+pickle
+numpy
+# --- Machine Learning & Model ---
+tensorflow # Or tensorflow-cpu if you don't need30.0
+# pandas==2.1.0
