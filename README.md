@@ -92,8 +92,7 @@ To run this application on your local machine:
     *   `US`
     *   `UK`
     *   `Australia`
-*   **Dataset:** *(Briefly mention the type of dataset used if you trained it, e.g., "The model was trained on a curated dataset comprising audio clips from [source like Common Voice, VoxForge, YouTube educational channels] representing diverse speakers for each accent class." If you used a pre-existing model, state that).*
-*   **Evaluation:** *(If you trained it, briefly mention how it was evaluated, e.g., "The model achieved an accuracy of X% on a held-out test set.").*
+*   **Dataset:** The model was trained on a curated dataset comprising audio clips from ***Mozilla Common Voice Datasets*** representing diverse speakers for each accent class
 
 ## Limitations & Future Work
 
