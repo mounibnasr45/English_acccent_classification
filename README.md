@@ -30,7 +30,7 @@ This project leverages a Python-based stack:
     *   `scikit-learn`: For the `LabelEncoder` used in training and prediction.
     *   `NumPy`: For numerical operations.
 *   **Feature Engineering:** The model is trained on Mel-Frequency Cepstral Coefficients (MFCCs), including their first and second derivatives (deltas and delta-deltas), to capture timbral and dynamic characteristics of speech. Audio segments are standardized to a fixed duration (`5` seconds) and sampling rate (`16000` Hz) to match the training conditions.
-*   **Model ArchitectureThe accent classification model is a Convolutional Neural Network (CNN) [or LSTM, or CNN-LSTM, etc.] trained on a dataset of diverse English accents. The architecture is designed to learn discriminative patterns from the MFCC features. *(If you used a pre-trained model as a base, mention it here and how you adapted it).*
+*   **Model ArchitectureThe accent classification model is a Convolutional Neural Network (CNN+ RNN) trained on a dataset of diverse English accents. The architecture is designed to learn discriminative patterns from the MFCC features. *(If you used a pre-trained model as a base, mention it here and how you adapted it).*
 *   **Deployment:** Streamlit Community Cloud
 
 ### Resourcefulness & Creative Choices:
