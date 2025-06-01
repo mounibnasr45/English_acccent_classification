@@ -5,7 +5,6 @@ DEMO :https://github.com/user-attachments/assets/2e9fba95-b288-4bfc-adff-d735f78
 
 This project is an intelligent tool designed to analyze spoken English accents from public video URLs. It extracts audio, processes it, and employs a machine learning model to classify the speaker's accent ( American, British, Australian) and provide a confidence score for the detected English accent.
 
-This tool was developed as a practical challenge for REM Waste, demonstrating the ability to build functional AI solutions for real-world problems, specifically to assist in evaluating the spoken English of potential candidates during the hiring process.
 
 ## Features
 
